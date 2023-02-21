@@ -1,10 +1,12 @@
-#include <main.h>
+#include "main.h"
 
 /**
- * main - prints _putchar and a new line
- * Return: Always 0
+ * main - Entry Point
+ * Description - Print _putchar
+ * Return: 0
  */
-int main(void)
+
+int main (void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -15,7 +17,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
-
 	return (0);
 }
