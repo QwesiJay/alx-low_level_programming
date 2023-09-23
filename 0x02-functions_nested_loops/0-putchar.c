@@ -4,10 +4,9 @@
  * is written by mbah
  * Return: 0
  */
-
 int main(void)
-{
-_putchar('_');
+{_
+putchar('_');
 _putchar('p');
 _putchar('u');
 _putchar('t');
